@@ -7,8 +7,10 @@ A Jupyter notebook to dive into panda.
 - Focus on pandas, matplot and plotly 📊
 - Focus on [OECD dataset](https://westernbalkans-competitiveness.oecd.org/)  🇲🇰🇲🇪🇦🇱🇧🇦🇽🇰🇷🇸
 
-# Install
+# Usage
 
 Two options:
-- [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/fleshgordo/dataexploration/blob/main/DataExploration.ipynb) (you'll need a Google account)
+- [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fleshgordo/dataexploration/blob/main/DataExploration.ipynb) (it's free to use but you'll need a Google account)
 - Use the notebook with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fleshgordo/dataexploration/HEAD)
+
+Further instructions directly in the notebook.
