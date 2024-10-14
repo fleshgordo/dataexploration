@@ -1,0 +1,357 @@
+[
+    {
+        "name": "Policy Dimension 1",
+        "title": "Investment Policy and Promotion",
+        "text": "The establishment of a robust legal investment framework is essential for fostering a business environment conducive to attracting investors and facilitating sustainable growth. WB6 economies have improved the business climate resulting in a notable increase in FDI  inflows across the region, with a significant portion, approximately 70%, originating from the EU.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 1.1",
+                "title": "Investment policy framework",
+                "text": "This sub-dimension assesses the laws, regulations and policies relating to the attraction of investors, the rules once established and the protection of their property, but also to the goals and expectations concerning the contribution of investment to sustainable development."
+            },
+            {
+                "name": "Sub-Dimension 1.2",
+                "title": "Investment promotion and facilitation",
+                "text": "This sub-dimension measures looks at whether investment promotion and facilitation practices have been established, which elements these practices encompass and with which resources are they supported. This sub-dimension also examines governments’ efforts to ensure that investment generates positive externalities – “spill overs” i.e. technology and know-how transfers, upgrading of local workers’ skills and enhanced human capital formation as well as linkages with local firms that foster their development and restructuring, the creation of business clusters leading to deeper international integration."
+            },
+            {
+                "name": "Sub-Dimension 1.3",
+                "title": "Mobilising sustainable investment",
+                "text": "This sub-dimension aims to identify policy and institutional reforms that can enhance the positive contribution of FDI to the Sustainable Development Goals (SDGs), and to four cross-cutting sustainability outcomes building on the OECD FDI Qualities Policy Toolkit, in particular: i) productivity and innovation, ii) job quality and skills, iii) gender equality, and iv) decarbonisation."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 2",
+        "title": "Trade Policy",
+        "text": "Trade policy in the Western Balkans is crucial for fostering economic growth, regional stability, and global market integration. Since 2013, goods exports between CEFTA parties have steadily risen, reaching EUR 8.4 billion in 2022. This trend towards regionalisation underscores the need for enhanced trade cooperation among WB economies. Recent improvements in trade facilitation are particularly important for the region's overall economic growth and strengthened regional trade ties.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 2.1",
+                "title": "Trade policy framework",
+                "text": "This sub-dimension assesses the effectiveness of the government in formulating, evaluating and implementing trade policy. It also focuses on the quality of the decision making in trade-related policies."
+            },
+            {
+                "name": "Sub-Dimension 2.2",
+                "title": "Digital trade",
+                "text": "This sub-dimension examines the regulatory environment for digital trade, as well as the strategic frameworks in place. The sub-dimension focuses on the implemented digital trade facilitation measures and the economies' adoption of international instruments governing digital trade, benchmarking it against the criteria set by the Digital Trade Inventory."
+            },
+            {
+                "name": "Sub-Dimension 2.3",
+                "title": "Export promotion",
+                "text": "This sub-dimension examines government support and initiatives to help companies export their goods and services, as well as the efficiency and effectiveness of an economy’s institutional and operational settings for export promotion."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 3",
+        "title": "Access to Finance",
+        "text": "Access to finance enables businesses to invest in growth opportunities, such as expanding operations and developing new products or services. In the Western Balkans, banks dominate the financial landscape, comprising around 90% of total financial assets in most WB6 economies as of 2022, compared to 50% in the euro area. This underscores the importance of ensuring a well-functioning banking sector while also developing non-bank actors to provide additional financing avenues for Western Balkan businesses.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 3.1",
+                "title": "Bank financing framework",
+                "text": "This sub-dimension aims at collecting a broad range of quantitative and qualitative information to examine whether adequate institutions and regulations for bank finance are in place. It covers factors such as the banking regulations, the existence of well-functioning cadastres and registration systems, and the availability of credit information services and credit conditions."
+            },
+            {
+                "name": "Sub-Dimension 3.2",
+                "title": "Access to alternative financing sources",
+                "text": "This sub-dimension analyses legal and regulatory frameworks, as well as incentive structures for the development and use of capital markets, alternative equity instruments, and asset-based lending in the form of factoring and leasing."
+            },
+            {
+                "name": "Sub-Dimension 3.3",
+                "title": "Digital finance",
+                "text": "This sub-dimension assesses legal and regulatory responses to the expansion of digital financial services, as well as the rise of financing options based on Distributed Ledger Technology."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 4",
+        "title": "Tax Policy",
+        "text": "A well-planned tax policy is essential for fostering a competitive business environment and providing key public services that drive economic growth. The WB6 economies feature a low tax burden, with low corporate and personal income tax rates, resulting in tax-to-GDP ratios below the OECD average. Moreover, their tax mix relies heavily on taxes on goods and services and social security contributions, highlighting the need to diversify revenue sources. While recent efforts have made tax information more accessible to taxpayers, improving compliance, challenges persist regarding the independence of tax administrations and regional cooperation on tax information.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 4.1",
+                "title": "Tax policy framework",
+                "text": "This sub-dimension  focuses on general features of the tax system, investment and other tax incentives, recent and proposed tax reforms and tax revenues. The framework also touches on other tax policy tools, such as modelling and forecasting of future tax revenues, and tax expenditure reporting"
+            },
+            {
+                "name": "Sub-Dimension 4.2",
+                "title": "Features of tax administration",
+                "text": "This sub-dimension looks at the administration’s functions and organisation, tax filing and payment procedures, available taxpayer services and compliance assessment and risk management to assess the efficiency of tax administrations."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 5",
+        "title": "State-owned Enterprises",
+        "text": "The central governments of the Western Balkans together own approximately 470 SOEs which account for estimated 3.4% of total regional employment. SOEs in the Western Balkans are often prevalent in systemically important sectors on which other businesses depend for their efficient operations, such as electricity and gas, telecommunications and transportation. Ensuring that SOEs operate efficiently and on a level playing field with private companies is crucial for well-functioning markets in the Western Balkans.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 5.1",
+                "title": "Efficiency and performance through improved governance",
+                "text": "This subdimension examines the extent to which state ownership decisions are guided by clear policies and efficient institutional arrangements. It also assesses the extent to which SOE boards of directors are equipped with sufficiently independent and qualified professionals to allow them to effectively oversee corporate management and make decisions in the interests of the enterprises they serve."
+            },
+            {
+                "name": "Sub-Dimension 5.2",
+                "title": "Transparency and accountability",
+                "text": "This subdimension examines the extent to which SOEs are accountable to the state, to their minority shareholders and to the general public. It analyses SOE corporate disclosure and audit requirements and practices, examines minority shareholder rights and access to information, and reviews the anti-corruption and integrity measures within SOEs."
+            },
+            {
+                "name": "Sub-Dimension 5.3",
+                "title": "Ensuring a level playing field",
+                "text": "This subdimension focuses on the extent to which SOEs’ legal and regulatory framework, as well as their financing conditions impact the competitive landscape with private companies."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 6",
+        "title": "Anti-corruption Policy",
+        "text": "Persistent corruption undermines the competitiveness of the WB6 economies, as evidenced in the performance of the WB6 economies against international anti-corruption indicators such as Transparency International’s Corruption Perceptions Index. The lack of sustained, long-term strategic frameworks for combating corruption makes it challenging to address high corruption levels. Moreover, prevention, investigation and prosecution of anti-corruption in the region remains challenging, despite some improvements.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 6.1",
+                "title": "Anti-corruption policy and risk assessment",
+                "text": "This subdimension focuses on how the economies plan, monitor and co-ordinate their anti-corruption efforts. The analysis also specifically delves into corruption risk assessments and corruption proofing of legislation."
+            },
+            {
+                "name": "Sub-Dimension 6.2",
+                "title": "Prevention of corruption",
+                "text": "This subdimension focuses on institutions (corruption prevention bodies) and three key areas of policy (conflicts of interest, asset and interest disclosure, and the protection of whistle-blowers) that act as pre-emptive safeguards against corruption. This subdimension also reviews how the economies raise awareness and educate the general public and public officials on corruption-related topics."
+            },
+            {
+                "name": "Sub-Dimension 6.3",
+                "title": "Business integrity and corporate liability",
+                "text": "This subdimension focuses on how the economies encourage integrity in business processes and help businesses withstand corrupt demands. It also reviews the provisions of liability of legal persons for corruption offences and their application in practice."
+            },
+            {
+                "name": "Sub-Dimension 6.4",
+                "title": "Investigation and prosecution",
+                "text": "This subdimension focuses on the readiness and track record of the economies in investigating, prosecuting, and adjudicating high-level corruption. The analysis specifically reviews the institutional setup, capacities and guarantees of independence of specialised anti-corruption investigative and prosecutorial bodies."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 7",
+        "title": "Education Policy",
+        "text": "In recent years, the Western Balkan economies have made significant strides in education reform, including updating curricula, enhancing teacher training, and facilitating students’ entrance into the labour market. With a clear focus on promoting inclusivity, equity and alignment with EU standards, continued efforts are crucial for fostering strong foundational skills and competencies, which in turn will help sustain and accelerate the region’s economic growth and competitiveness.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 7.1",
+                "title": "Equitable education for an inclusive society",
+                "text": "This sub-dimension delves into the strategic, legal and policy frameworks in place that governs the education sector to ensure students have access to high-quality, equitable education. It focuses on the earliest levels of education, starting with the provision of early childhood education. It then evaluates the policies and initiatives in place that seek to promote quality and equity among students in pre-university education."
+            },
+            {
+                "name": "Sub-Dimension 7.2",
+                "title": "Teachers",
+                "text": "This sub-dimension examines the early and ongoing training and professional development of teachers in the region. It first examines the design and efficacy of initial education programmes, focusing on requirements, entry pathways into the profession, and support mechanisms available to new teachers. Additionally, it explores the mechanisms and incentives in place to encourage teachers’ participation in continuous professional development."
+            },
+            {
+                "name": "Sub-Dimension 7.3",
+                "title": "School-to-work transition",
+                "text": "This sub-dimension looks at how economies seek to ease students’ entrance into the labour market by ensuring that they acquire relevant, in-demand skills during their education. It evaluates the effectiveness of policies and programmes that seek to instil students in both vocational education and training (VET) programmes and in higher education with skills and competencies demanded by employers."
+            },
+            {
+                "name": "Sub-Dimension 7.4",
+                "title": "Skills for the green-digital transition",
+                "text": "This sub-dimension aims to identify how economies are adjusting their education systems to reflect the growing need for digital and green skills. Namely, it looks at existing and planned initiatives that seek to cultivate these key skillsets and competencies among students at all levels of education."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 8",
+        "title": "Employment Policy",
+        "text": "The Western Balkan economies have achieved substantial progress in enhancing employment outcomes, with the average regional unemployment rate decreasing by more than half over the past decade, dropping from 24.4% in 2014 to 11.7% in 2023. Strengthening policies and implementing targeted initiatives are essential for further improving employment and activity rates as well as reducing existing skills mismatches and gaps to bolster the region’s ability to respond to emerging skills needs and maintain its competitiveness.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 8.1",
+                "title": "Inclusive labour market governance",
+                "text": "This sub-dimension looks at the overarching policies, laws, regulations, and institutions that influence the supply and quality of employment in the region. It assesses the policy and legal framework guiding employment alongside the role of labour inspectorates and social dialogue in bolstering workers’ rights. It also evaluates the presence and efficacy of inclusive employment policies aimed at boosting employment rates among diverse groups within society."
+            },
+            {
+                "name": "Sub-Dimension 8.2",
+                "title": "Social protection & activation policies",
+                "text": "This sub-dimension looks at how the WB6 economies aim to assist unemployed jobseekers and vulnerable members of the population. It examines the support provided through the economies’ public employment services as well as through active labour market programmes. It also considers the legal and policy structures that underpin the provision of unemployment benefits and social assistance."
+            },
+            {
+                "name": "Sub-Dimension 8.3",
+                "title": "Skills for adaptable labour markets",
+                "text": "This sub-dimension looks at how the economies are managing their citizens’ existing skills and competencies as well as how they are promoting the development of new skills for the future labour market. Specifically, it assesses the policies and programmes in place across the region that seek to reduce the prevalence of horizontal and vertical mismatches. Additionally, it evaluates the new and ongoing initiatives aimed at up-skilling and re-skilling the labour force with skills needed for the digital and green transitions."
+            },
+            {
+                "name": "Sub-Dimension 8.4",
+                "title": "Expanding the skills pool",
+                "text": "This sub-dimension examines economies’ strategic and policy frameworks that seek to attract skilled immigrants and integrate them into the labour market in order to fully exploit this foreign talent’s potential. Additionally, it assesses how economies engage with their diaspora communities to leverage their skills and knowledge for economic growth."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 9",
+        "title": "Science, Technology and Innovation",
+        "text": "Science, technology and innovation (STI) are increasingly being used as key drivers of economic growth and competitiveness and can play an important role in supporting the green and digital transitions by developing new products, services and processes. Faced with long-term brain drain and low public sector human and financial capacities to support STI, the Western Balkan economies face unique challenges in making use of their STI potential.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 9.1",
+                "title": "STI system",
+                "text": "This sub-dimension assesses the legal, policy and institutional frameworks governing science, technology and innovation policies in each WB6 economy. It assesses the extent to which the WB6 economies have robust strategic and regulatory frameworks for their STI policies, as well as the extent to which these are backed up by strong institutonal frameworks that can ensure effective co-ordination and implementation. This sub-dimension also analyses each economy's progress in the smart specialisation process as a key means of supporting innovation for economic growth and regional cohesion."
+            },
+            {
+                "name": "Sub-Dimension 9.2",
+                "title": "Public research system",
+                "text": "This sub-dimension assesses the institutional structure for public research through an analysis of the governance of higher education institutions and research and development institutes, including quality assurance and performance assessment. It assesses the impact of public research funding on research excellence and analyses public sector approaches to funding scientific research. It also explores the available policy initiatives to strengthen human resources for research and innovation."
+            },
+            {
+                "name": "Sub-Dimension 9.3",
+                "title": "Knowledge exchange and co-creation",
+                "text": "This sub-dimension analyses collaboration promotion frameworks and the availability and scope of incentives for business-academia collaboration, such as innovation vouchers, competitive co-operative grants, tax and procurement incentives; and non-financial incentives such as opportunities for professional exchanges with the business community. It also assesses institutional support for business-academia collaboration by looking at the support infrastructure for business innovation and partnerships, (such as science and technology parks for example). Lastly, it looks at policies to promote open science as a tool to facilitate the availability and accessibility of scientific data."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 10",
+        "title": "Digital Society",
+        "text": "The six Western Balkan economies have long recognised the significance of the digital economy and society for development and EU convergence. With an annual increase in available fibre connections rising from 29% in 2021 to 33% in 2022, WB6 are focused on improving infrastructure, expanding e-government services, supporting SME digital transformation, and exploring new emerging technologies, thus highlighting the growing need for including environmentally sustainable practices in this transition.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 10.1",
+                "title": "Access",
+                "text": "This sub-dimension assesses the implementation of high-quality broadband infrastructure and the respective policy framework; analyses whether a regulatory framework is in place to ensure a level playing field in the ICT sector to promote competition and infrastructure investments; and examines whether a framework for data accessibility is in place."
+            },
+            {
+                "name": "Sub-Dimension 10.2",
+                "title": "Use",
+                "text": "This sub-dimension analyses digital government policy development and implementation to assess the digital transformation of governments and the public sector; assesses the extent to which governments have adopted or are working on frameworks to govern emerging technologies such as artificial intelligence, blockchain, internet of things; and examines private-sector ICT adoption to evaluate how policies promote the use of digital technologies as a growth enabler in firms."
+            },
+            {
+                "name": "Sub-Dimension 10.3",
+                "title": "Society",
+                "text": "This sub-dimension evaluates whether a digital inclusion framework has been adopted to overcome the exclusion of socio-economically marginalised groups; assesses if targeted policy actions have been implemented, and monitored and adjusted in order to adapt technological developments and their impact on socio-economic groups. It also measures the extent to which the governments have frameworks and policies in place to limit the negative environmental and climate impacts of the proliferation of digital technologies and examines the degree to which digital technologies are being used to achieve sustainability outcomes and are integrated into environmental policies."
+            },
+            {
+                "name": "Sub-Dimension 10.4",
+                "title": "Trust",
+                "text": "This sub-dimension looks at whether the policy framework for privacy protection is based on a robust regulatory and enforcement framework that sufficiently adapts to ever-evolving threats to personal privacy; assesses whether a legislative and institutional framework is in place to protect consumers in e-commerce and examines whether an economy-wide framework for cybersecurity risk management has been adopted and implemented to mitigate risks and increase trust in the digital environment, thus fostering the uptake of digital services."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 11",
+        "title": "Transport Policy",
+        "text": "Well-developed and well-functioning transport networks are essential for economic competitiveness as they enable the movement of people and goods and are key for connectivity between economies. Transport is also a major contributor to carbon emissions, making its decarbonisation necessary to reach climate targets. In order to maximise their regional connectivity potential, the Western Balkan economies need to focus their efforts on developing efficient, competitive and sustainable transport systems.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 11.1",
+                "title": "Planning and management",
+                "text": "This sub-dimension assesses the extent to which an orderly, coherent, consistent and transparent process is in place for developing transport policy and infrastructure. It looks at the existence of overall transport strategies and infrastructure development plans, as well as processes for evaluating and selecting transport projects. Asset management policies, practices and tools are also assessed, as they are essential for maintaining the quality of infrastructure and allow governments to reduce costs in the long run."
+            },
+            {
+                "name": "Sub-Dimension 11.2",
+                "title": "Regulation and connectivity",
+                "text": "This sub-dimension assesses how well transport infrastructure and networks are regulated, operated and integrated to create a coherent regional transport network which can boost competitiveness. It does so by measuring alignment with EU regulatory frameworks on transport to create common market conditions with the EU, as a prerequesite for regional transport network integration and integration with EU transport networks. It also assesses measures to facilitate regional transport (such as one-stop shops and common crossing points) and develop smart transport systems (through integrated transport information systems or the use of emerging technologies for example)."
+            },
+            {
+                "name": "Sub-Dimension 11.3",
+                "title": "Sustainability",
+                "text": "This sub-dimension measures progress towards developing more sustainable transport systems. It does this by assessing policies to promote environmentally sustainable transport as well as policies to make the transport system more safe accross all modes, to ensure that it is used to promote social inclusion and cohesion and to ensure that it is accessible to disadvantaged groups."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 12",
+        "title": "Energy Policy",
+        "text": "Energy is an indispensable input for economic activity and therefore represents a key pillar of competitiveness. The Western Balkan economies can achieve substantial economic, social and environmental benefits by ensuring that their energy sectors are competitive, well-governed and sustainable. Recent shocks have also shown that their energy systems are vulnerable to various types of disruptions and stand to gain from an increased focus on resilience.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 12.1",
+                "title": "Governance and regulation",
+                "text": "This sub-dimension analyses to what extent the WB6 economies have the necessary frameworks to establish competitive energy markets and to foster their growth in the long run. It does so by evaluating the overall policy, legal and institutional frameworks governing the energy sectors in the WB6 economies. It also assesses the existence, independence and effectiveness of regulatory authorities in each WB6 economy, as they are key actors of competitive energy markets."
+            },
+            {
+                "name": "Sub-Dimension 12.2",
+                "title": "Energy security",
+                "text": "This sub-dimension analyses policies that the WB6 economies have put in place in order to make their energy systems more resilient to crises induced by internal and external shocks, both in response to the recent energy crisis as well as forward looking policies, which are particularly important. It also assesses the extent to which the WB6 economies have established comprehensive and effective policies to diversify their energy supply, as a means of further reducing their vulnerability to supply shocks."
+            },
+            {
+                "name": "Sub-Dimension 12.3",
+                "title": "Sustainability",
+                "text": "This sub-dimension examines policies to make the energy sectors of the WB6 economies more sustainable. It assesses the WB6 economies' plans to co-ordinate and steer the decarbonisation of their energy sectors. It also looks at policies in place to promote the development and use of renewable energy sources and energy efficiency. Lastly, it assesses the extent to which the WB6 economies have developed comprehensive policy approaches to address the issue of energy poverty to ensure  a more socially sustainable energy system."
+            },
+            {
+                "name": "Sub-Dimension 12.4",
+                "title": "Energy markets",
+                "text": "This sub-dimension analyses how well energy markets are operated, firstly by looking at whether the necessary legal, institutional and governance structures are in place to ensure market operations as well as whether competition is used to promote efficient allocation of energy resources. It also looks at alignment and compliance with key aspects of the EU and Energy Community acquis regarding unbundling of network monopolies in the electricity and natural gas sectors, as well as the degree of regional integration of the WB6 energy markets."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 13",
+        "title": "Environment Policy",
+        "text": "The Western Balkans faces a common set of environmental challenges, intensified by the growing impacts of climate change, posing significant risks to economic and social well-being. At the same time, the environment plays a critical role in the region, underpinning key sectors such as agriculture, tourism, and energy, which are essential for economic stability and growth. Addressing pressing environmental issues is crucial not only for achieving sustainable and resilient development but also for bolstering the region's competitiveness.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 13.1",
+                "title": "Climate action",
+                "text": "This sub-dimension delves into the effectiveness of climate action initiatives, encompassing both mitigation and adaptation policies. It assesses the efficiency of measures aimed at reducing greenhouse gas emissions and achieving carbon neutrality to mitigate climate change's adverse effects. Additionally, it examines resilience-building efforts to adapt to the impacts of climate change, such as extreme weather events and water-related risks. It also evaluates how climate considerations are incorporated into sectoral plans, ensuring a fair and inclusive shift towards low-carbon economies while bolstering the region's competitiveness in the face of climate-related risks and challenges."
+            },
+            {
+                "name": "Sub-Dimension 13.2",
+                "title": "Circular economy",
+                "text": "Given the economic and environmental challenges stemming from increased demand for raw materials and linear supply chains, this sub-dimension delves into policies pertinent to transitioning to a circular economy. It first examines the effectiveness of frameworks promoting sustainable resource use, consumption, and production, aiming to minimise waste generation and maximise resource efficiency. Additionally, it evaluates strategies and policies for waste management, emphasising the reduction, reuse, and recycling of materials to foster a more circular and sustainable economic model."
+            },
+            {
+                "name": "Sub-Dimension 13.3",
+                "title": "Protection of ecosystems",
+                "text": "This sub-dimension focuses on the protection of ecosystems, recognising their crucial role in sustaining economic and social well-being. Within this context, it first examines policies addressing freshwater management, with the aim to ensure the sustainable use and conservation of water, improving water quality, reducing pollution, and enhancing water efficiency. It then asseses biodiversity and forestry practices, particularly policies aiming to protect habitats, conserve endangered species, and promote sustainable forestry. Third, it evaluates land use management policies, seeking to balance competing demands for land while preserving ecosystem integrity."
+            },
+            {
+                "name": "Sub-Dimension 13.4",
+                "title": "Depollution",
+                "text": "This sub-dimension assesses depollution measures, vital for safeguarding environmental quality and public health. It first examines policies addressing air quality, aiming to mitigate pollutants and enhance citizen well-being. Additionally, it assesses strategies related to water supply and sanitation, with a focus on enhancing access to clean water and upgrading sanitation infrastructure. Finally, it evaluates industrial risk management policies, aiming to mitigate the environmental impact of industrial activities and safeguard soil quality."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 14",
+        "title": "Agriculture Policy",
+        "text": "Agriculture stands as a pivotal sector in the Western Balkans, characterised by its rich tapestry of agricultural landscapes and traditions. Over time, the region has made strides in modernising and diversifying within its agricultural sectors to enhance productivity, sustainability, and competitiveness. Furthermore, alignment with European Union agricultural standards and policies serves as a crucial anchor for reforms in the context of EU accession, facilitating trade and access to EU markets.  However, persistent challenges, including fragmented land ownership, insufficient infrastructure, restricted access to credit and markets, and susceptibility to climate change, remain hurdles to overcome.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 14.1",
+                "title": "Rural development and infrastructure",
+                "text": "This sub-dimension assesses policies related to rural infrastructure, irrigation, and rural livelihoods, as well as relevant  reforms and achievements. It specifically examines the role of rural infrastructure within the context of agriculture and rural development."
+            },
+            {
+                "name": "Sub-Dimension 14.2",
+                "title": "Agriculture support system",
+                "text": "This dimension assesses the effectiveness of policies, governance frameworks, and instruments supporting the agricultural sector, including those related to research, innovation, technology transfer, and digitalization (RITTD). It aims to evaluate how these strategies contribute to enhancing agricultural productivity, fostering innovation, promoting sustainable practices, and improving overall sectoral competitiveness."
+            },
+            {
+                "name": "Sub-Dimension 14.3",
+                "title": "Food safety and quality",
+                "text": "This sub-dimension examines how regulations safeguard food safety, animal and plant health, and food quality, which includes territorial and organic certification. Ensuring food safety and quality is essential for EU approximation and improving access to both local and export markets."
+            }
+        ]
+    },
+    {
+        "name": "Policy Dimension 15",
+        "title": "Tourism Policy",
+        "text": "The Western Balkans' emergence as a rapidly growing tourist destination is quite significant for the region's economic development. With double-digit increases in tourist arrivals and overnight stays, tourism emerges as a vital sector driving these economies. The surge in tourism not only boosts earnings from travel and related services but also triggers significant cultural shifts across various aspects of society, while also driving the expansion of Gross Domestic Product (GDP) and exports, highlighting its far-reaching impact on the economy. As a result, there is a pressing need to update and adjust policies and frameworks to better align with the evolving dynamics of the tourism sector.",
+        "subdimensions": [
+            {
+                "name": "Sub-Dimension 15.1",
+                "title": "Governance and enabling conditions",
+                "text": "This sub-dimension focuses on the efficiency of economies’ governance structures and institutional setups at economy and destination levels for managing the development and implementation of tourism strategies. Furthermore, it assesses inter-ministerial co-operation, government co-operation with municipalities and dialogue with non-governmental tourism stakeholders. It also assesses institutional support for the establishment of a comprehensive tourism data collection and sharing system."
+            },
+            {
+                "name": "Sub-Dimension 15.2",
+                "title": "Accessibility, tourism offer and human resources",
+                "text": "This sub-dimension focuses on how the economies facilitate destination accessibility. It evaluates how efficiently the economies facilitate the quality of tourist accommodation based on international standards. It also assesses how efficiently the economies bridge skills gaps in the tourism sector through tourism human resource development policies and through established VET and higher education frameworks."
+            },
+            {
+                "name": "Sub-Dimension 15.3",
+                "title": "Sustainable and competitive tourism",
+                "text": "This sub-dimension focuses on focuses on the effectiveness of tourism branding and marketing, including digital marketing tools. It also assesses how efficiently the economies conserve, manage and use natural and cultural resources as one of the key drivers of tourism development and competitiveness. It also explores how efficiently tourism policy frameworks, which influence both tourism development and the operation of the tourism sector, make tourism more environmentally, socially and economically sustainable."
+            }
+        ]
+    }
+]
